@@ -352,7 +352,7 @@ function Usuarios(props) {
                 </Table>
                 <Modal show={modificar} onHide={handleClose}>
                     <Modal.Header closeButton>
-                    <Modal.Title> Modificando Marca </Modal.Title>
+                    <Modal.Title> Modificando Usuario </Modal.Title>
                     </Modal.Header>
                     <Modal.Body>
                         <Form>
